@@ -1,0 +1,1 @@
+# 1st-gen-local-session-storage
